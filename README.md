@@ -8,6 +8,7 @@ generating particle animations.
 ## Table of Contents
 
 -   [Introduction](#introduction)
+-   [Documentation](#documentation)
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [Configuration](#configuration)
@@ -21,6 +22,17 @@ generating particle animations.
 
 The Particle System Project is a JavaScript project that uses PIXI.js for creating particle animations. It allows you to configure various
 aspects of the particle system, including textures, animation behavior, and more.
+
+## Documentation
+
+The documentation for this project can be found in the [docs](./docs) folder. It contains the following files:
+
+-   [index](./docs/index.html): The main documentation page
+-   [config](./docs/global.html): Documentation for global variables
+-   [stageController](./docs/StageController.html): Documentation for the StageController class
+-   [particleController](./docs/ParticleController.html): Documentation for the ParticleController class
+-   [texturesController](./docs/TexturesController.html): Documentation for the TexturesController class
+-   [coinsModel](./docs/CoinsModel.html): Documentation for the CoinsModel class
 
 ## Installation
 
